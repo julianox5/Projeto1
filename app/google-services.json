@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770648195765",
+    "project_id": "mensagem-fda26",
+    "storage_bucket": "mensagem-fda26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770648195765:android:0756b193652b25c7ec74fc",
+        "android_client_info": {
+          "package_name": "com.example.enviarmensagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770648195765-18lqnb31lj0g13tpu6p4navvktms37a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkWN7zM-0-TMPizS6_CvbTOvJ0Eyd_fyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770648195765-18lqnb31lj0g13tpu6p4navvktms37a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
